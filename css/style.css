@@ -26,6 +26,7 @@
     margin-right: auto;
 }
 #image{
+    display: block;
     max-width: -webkit-fill-available;
 }
 #tribute-info{
